@@ -18,7 +18,7 @@ public class DataController {
 	public String setData(String usrstr)  // accept a json data
 	{
 		//dao.save(data);
-		//ArrayList<String> user= new ArrayList<>();
+		ArrayList<String> user= new ArrayList<>();
 		// convert json to array  ArrayList<String> user= new ArrayList<>(); user=funJsonToArrlist
 
 	//	user.add("Status"+"Data inserted"); //add another element to that arraylist
